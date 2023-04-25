@@ -1,0 +1,39 @@
+C:\Users\ivan_\source\repos\Proyecto Web Scraping Cupones\Proyecto Web Scraping Cupones\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ivan_\source\repos\Proyecto Web Scraping Cupones\Proyecto Web Scraping Cupones\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ivan_\source\repos\Proyecto Web Scraping Cupones\Proyecto Web Scraping Cupones\bin\Debug\netcoreapp3.1\Proyecto Web Scraping Cupones.exe
+C:\Users\ivan_\source\repos\Proyecto Web Scraping Cupones\Proyecto Web Scraping Cupones\bin\Debug\netcoreapp3.1\Proyecto Web Scraping Cupones.deps.json
+C:\Users\ivan_\source\repos\Proyecto Web Scraping Cupones\Proyecto Web Scraping Cupones\bin\Debug\netcoreapp3.1\Proyecto Web Scraping Cupones.runtimeconfig.json
+C:\Users\ivan_\source\repos\Proyecto Web Scraping Cupones\Proyecto Web Scraping Cupones\bin\Debug\netcoreapp3.1\Proyecto Web Scraping Cupones.runtimeconfig.dev.json
+C:\Users\ivan_\source\repos\Proyecto Web Scraping Cupones\Proyecto Web Scraping Cupones\bin\Debug\netcoreapp3.1\Proyecto Web Scraping Cupones.dll
+C:\Users\ivan_\source\repos\Proyecto Web Scraping Cupones\Proyecto Web Scraping Cupones\bin\Debug\netcoreapp3.1\Proyecto Web Scraping Cupones.pdb
+C:\Users\ivan_\source\repos\Proyecto Web Scraping Cupones\Proyecto Web Scraping Cupones\bin\Debug\netcoreapp3.1\Proyecto Web Scraping Cupones.Views.dll
+C:\Users\ivan_\source\repos\Proyecto Web Scraping Cupones\Proyecto Web Scraping Cupones\bin\Debug\netcoreapp3.1\Proyecto Web Scraping Cupones.Views.pdb
+C:\Users\ivan_\source\repos\Proyecto Web Scraping Cupones\Proyecto Web Scraping Cupones\obj\Debug\netcoreapp3.1\Proyecto Web Scraping Cupones.csproj.AssemblyReference.cache
+C:\Users\ivan_\source\repos\Proyecto Web Scraping Cupones\Proyecto Web Scraping Cupones\obj\Debug\netcoreapp3.1\Proyecto Web Scraping Cupones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivan_\source\repos\Proyecto Web Scraping Cupones\Proyecto Web Scraping Cupones\obj\Debug\netcoreapp3.1\Proyecto Web Scraping Cupones.AssemblyInfoInputs.cache
+C:\Users\ivan_\source\repos\Proyecto Web Scraping Cupones\Proyecto Web Scraping Cupones\obj\Debug\netcoreapp3.1\Proyecto Web Scraping Cupones.AssemblyInfo.cs
+C:\Users\ivan_\source\repos\Proyecto Web Scraping Cupones\Proyecto Web Scraping Cupones\obj\Debug\netcoreapp3.1\Proyecto Web Scraping Cupones.csproj.CoreCompileInputs.cache
+C:\Users\ivan_\source\repos\Proyecto Web Scraping Cupones\Proyecto Web Scraping Cupones\obj\Debug\netcoreapp3.1\Proyecto Web Scraping Cupones.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ivan_\source\repos\Proyecto Web Scraping Cupones\Proyecto Web Scraping Cupones\obj\Debug\netcoreapp3.1\Proyecto Web Scraping Cupones.RazorAssemblyInfo.cache
+C:\Users\ivan_\source\repos\Proyecto Web Scraping Cupones\Proyecto Web Scraping Cupones\obj\Debug\netcoreapp3.1\Proyecto Web Scraping Cupones.RazorAssemblyInfo.cs
+C:\Users\ivan_\source\repos\Proyecto Web Scraping Cupones\Proyecto Web Scraping Cupones\obj\Debug\netcoreapp3.1\staticwebassets\Proyecto Web Scraping Cupones.StaticWebAssets.Manifest.cache
+C:\Users\ivan_\source\repos\Proyecto Web Scraping Cupones\Proyecto Web Scraping Cupones\obj\Debug\netcoreapp3.1\staticwebassets\Proyecto Web Scraping Cupones.StaticWebAssets.xml
+C:\Users\ivan_\source\repos\Proyecto Web Scraping Cupones\Proyecto Web Scraping Cupones\obj\Debug\netcoreapp3.1\scopedcss\bundle\Proyecto Web Scraping Cupones.styles.css
+C:\Users\ivan_\source\repos\Proyecto Web Scraping Cupones\Proyecto Web Scraping Cupones\obj\Debug\netcoreapp3.1\Proyecto Web Scraping Cupones.TagHelpers.input.cache
+C:\Users\ivan_\source\repos\Proyecto Web Scraping Cupones\Proyecto Web Scraping Cupones\obj\Debug\netcoreapp3.1\Proyecto Web Scraping Cupones.TagHelpers.output.cache
+C:\Users\ivan_\source\repos\Proyecto Web Scraping Cupones\Proyecto Web Scraping Cupones\obj\Debug\netcoreapp3.1\Proyecto Web Scraping Cupones.RazorCoreGenerate.cache
+C:\Users\ivan_\source\repos\Proyecto Web Scraping Cupones\Proyecto Web Scraping Cupones\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ivan_\source\repos\Proyecto Web Scraping Cupones\Proyecto Web Scraping Cupones\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ivan_\source\repos\Proyecto Web Scraping Cupones\Proyecto Web Scraping Cupones\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ivan_\source\repos\Proyecto Web Scraping Cupones\Proyecto Web Scraping Cupones\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ivan_\source\repos\Proyecto Web Scraping Cupones\Proyecto Web Scraping Cupones\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ivan_\source\repos\Proyecto Web Scraping Cupones\Proyecto Web Scraping Cupones\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ivan_\source\repos\Proyecto Web Scraping Cupones\Proyecto Web Scraping Cupones\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ivan_\source\repos\Proyecto Web Scraping Cupones\Proyecto Web Scraping Cupones\obj\Debug\netcoreapp3.1\Proyecto Web Scraping Cupones.RazorTargetAssemblyInfo.cache
+C:\Users\ivan_\source\repos\Proyecto Web Scraping Cupones\Proyecto Web Scraping Cupones\obj\Debug\netcoreapp3.1\Proyecto Web Scraping Cupones.RazorTargetAssemblyInfo.cs
+C:\Users\ivan_\source\repos\Proyecto Web Scraping Cupones\Proyecto Web Scraping Cupones\obj\Debug\netcoreapp3.1\Proyecto Web Scraping Cupones.Views.pdb
+C:\Users\ivan_\source\repos\Proyecto Web Scraping Cupones\Proyecto Web Scraping Cupones\obj\Debug\netcoreapp3.1\Proyecto Web Scraping Cupones.dll
+C:\Users\ivan_\source\repos\Proyecto Web Scraping Cupones\Proyecto Web Scraping Cupones\obj\Debug\netcoreapp3.1\Proyecto Web Scraping Cupones.pdb
+C:\Users\ivan_\source\repos\Proyecto Web Scraping Cupones\Proyecto Web Scraping Cupones\obj\Debug\netcoreapp3.1\Proyecto Web Scraping Cupones.genruntimeconfig.cache
+C:\Users\ivan_\source\repos\Proyecto Web Scraping Cupones\Proyecto Web Scraping Cupones\obj\Debug\netcoreapp3.1\Proyecto Web Scraping Cupones.csproj.CopyComplete
+C:\Users\ivan_\source\repos\Proyecto Web Scraping Cupones\Proyecto Web Scraping Cupones\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll

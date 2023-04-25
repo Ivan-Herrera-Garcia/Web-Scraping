@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nY4U4Jhq2mNPMScAFU0M0O1aBacfI3xHkiwydG5P6U/dCZAtCwfQqcb02xNdohNNjPdz9GjdGuZLKvofewrd5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ivan_\\source\\repos\\Proyecto Web Scraping Cupones\\Proyecto Web Scraping Cupones\\Proyecto Web Scraping Cupones.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ivan_\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}
