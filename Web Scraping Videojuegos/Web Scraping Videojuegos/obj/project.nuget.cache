@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "KytQIs28g1yEOB9EOlNzhBBgiCIMLBpBHqWfvtyOMxXpmecMNMgPrTycEmF4ycAkv6UrHLmTCdZOzB432tGN3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ivan_\\source\\repos\\Web Scraping Videojuegos\\Web Scraping Videojuegos\\Web Scraping Videojuegos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ivan_\\.nuget\\packages\\fsharp.core\\4.5.2\\fsharp.core.4.5.2.nupkg.sha512",
+    "C:\\Users\\ivan_\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512",
+    "C:\\Users\\ivan_\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\ivan_\\.nuget\\packages\\scrapysharp\\3.0.0\\scrapysharp.3.0.0.nupkg.sha512",
+    "C:\\Users\\ivan_\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0-preview1-26216-02\\system.configuration.configurationmanager.4.5.0-preview1-26216-02.nupkg.sha512",
+    "C:\\Users\\ivan_\\.nuget\\packages\\system.runtime.caching\\4.5.0-preview1-26216-02\\system.runtime.caching.4.5.0-preview1-26216-02.nupkg.sha512",
+    "C:\\Users\\ivan_\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0-preview1-26216-02\\system.security.cryptography.protecteddata.4.5.0-preview1-26216-02.nupkg.sha512"
+  ],
+  "logs": []
+}

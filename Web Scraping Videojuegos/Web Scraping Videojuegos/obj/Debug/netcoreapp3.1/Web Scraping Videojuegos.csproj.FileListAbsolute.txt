@@ -1,0 +1,61 @@
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\bin\Debug\netcoreapp3.1\Web Scraping Videojuegos.exe
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\bin\Debug\netcoreapp3.1\Web Scraping Videojuegos.deps.json
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\bin\Debug\netcoreapp3.1\Web Scraping Videojuegos.runtimeconfig.json
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\bin\Debug\netcoreapp3.1\Web Scraping Videojuegos.runtimeconfig.dev.json
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\bin\Debug\netcoreapp3.1\Web Scraping Videojuegos.dll
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\bin\Debug\netcoreapp3.1\Web Scraping Videojuegos.pdb
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\bin\Debug\netcoreapp3.1\Web Scraping Videojuegos.Views.dll
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\bin\Debug\netcoreapp3.1\Web Scraping Videojuegos.Views.pdb
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\bin\Debug\netcoreapp3.1\FSharp.Core.dll
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\bin\Debug\netcoreapp3.1\ScrapySharp.Core.dll
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\bin\Debug\netcoreapp3.1\ScrapySharp.dll
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\bin\Debug\netcoreapp3.1\cs\FSharp.Core.resources.dll
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\bin\Debug\netcoreapp3.1\de\FSharp.Core.resources.dll
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\bin\Debug\netcoreapp3.1\en\FSharp.Core.resources.dll
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\bin\Debug\netcoreapp3.1\es\FSharp.Core.resources.dll
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\bin\Debug\netcoreapp3.1\fr\FSharp.Core.resources.dll
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\bin\Debug\netcoreapp3.1\it\FSharp.Core.resources.dll
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\bin\Debug\netcoreapp3.1\ja\FSharp.Core.resources.dll
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\bin\Debug\netcoreapp3.1\ko\FSharp.Core.resources.dll
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\bin\Debug\netcoreapp3.1\pl\FSharp.Core.resources.dll
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\bin\Debug\netcoreapp3.1\pt-BR\FSharp.Core.resources.dll
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\bin\Debug\netcoreapp3.1\ru\FSharp.Core.resources.dll
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\bin\Debug\netcoreapp3.1\tr\FSharp.Core.resources.dll
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\bin\Debug\netcoreapp3.1\zh-Hans\FSharp.Core.resources.dll
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\bin\Debug\netcoreapp3.1\zh-Hant\FSharp.Core.resources.dll
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\obj\Debug\netcoreapp3.1\Web Scraping Videojuegos.csproj.AssemblyReference.cache
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\obj\Debug\netcoreapp3.1\Web Scraping Videojuegos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\obj\Debug\netcoreapp3.1\Web Scraping Videojuegos.AssemblyInfoInputs.cache
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\obj\Debug\netcoreapp3.1\Web Scraping Videojuegos.AssemblyInfo.cs
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\obj\Debug\netcoreapp3.1\Web Scraping Videojuegos.csproj.CoreCompileInputs.cache
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\obj\Debug\netcoreapp3.1\Web Scraping Videojuegos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\obj\Debug\netcoreapp3.1\Web Scraping Videojuegos.RazorAssemblyInfo.cache
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\obj\Debug\netcoreapp3.1\Web Scraping Videojuegos.RazorAssemblyInfo.cs
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\obj\Debug\netcoreapp3.1\staticwebassets\Web Scraping Videojuegos.StaticWebAssets.Manifest.cache
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\obj\Debug\netcoreapp3.1\staticwebassets\Web Scraping Videojuegos.StaticWebAssets.xml
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\obj\Debug\netcoreapp3.1\scopedcss\bundle\Web Scraping Videojuegos.styles.css
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\obj\Debug\netcoreapp3.1\Web Scraping Videojuegos.TagHelpers.input.cache
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\obj\Debug\netcoreapp3.1\Web Scraping Videojuegos.TagHelpers.output.cache
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\obj\Debug\netcoreapp3.1\Web Scraping Videojuegos.RazorCoreGenerate.cache
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\obj\Debug\netcoreapp3.1\Web Scraping Videojuegos.RazorTargetAssemblyInfo.cache
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\obj\Debug\netcoreapp3.1\Web Scraping Videojuegos.RazorTargetAssemblyInfo.cs
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\obj\Debug\netcoreapp3.1\Web Scraping Videojuegos.Views.pdb
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\obj\Debug\netcoreapp3.1\Web Scraping Videojuegos.csproj.CopyComplete
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\obj\Debug\netcoreapp3.1\Web Scraping Videojuegos.dll
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\obj\Debug\netcoreapp3.1\Web Scraping Videojuegos.pdb
+C:\Users\ivan_\source\repos\Web Scraping Videojuegos\Web Scraping Videojuegos\obj\Debug\netcoreapp3.1\Web Scraping Videojuegos.genruntimeconfig.cache
