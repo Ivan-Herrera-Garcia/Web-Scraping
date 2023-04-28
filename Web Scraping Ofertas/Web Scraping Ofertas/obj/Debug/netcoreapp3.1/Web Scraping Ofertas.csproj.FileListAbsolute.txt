@@ -1,0 +1,39 @@
+C:\Users\ivan_\source\repos\Web Scraping Ofertas\Web Scraping Ofertas\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ivan_\source\repos\Web Scraping Ofertas\Web Scraping Ofertas\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ivan_\source\repos\Web Scraping Ofertas\Web Scraping Ofertas\bin\Debug\netcoreapp3.1\Web Scraping Ofertas.exe
+C:\Users\ivan_\source\repos\Web Scraping Ofertas\Web Scraping Ofertas\bin\Debug\netcoreapp3.1\Web Scraping Ofertas.deps.json
+C:\Users\ivan_\source\repos\Web Scraping Ofertas\Web Scraping Ofertas\bin\Debug\netcoreapp3.1\Web Scraping Ofertas.runtimeconfig.json
+C:\Users\ivan_\source\repos\Web Scraping Ofertas\Web Scraping Ofertas\bin\Debug\netcoreapp3.1\Web Scraping Ofertas.runtimeconfig.dev.json
+C:\Users\ivan_\source\repos\Web Scraping Ofertas\Web Scraping Ofertas\bin\Debug\netcoreapp3.1\Web Scraping Ofertas.dll
+C:\Users\ivan_\source\repos\Web Scraping Ofertas\Web Scraping Ofertas\bin\Debug\netcoreapp3.1\Web Scraping Ofertas.pdb
+C:\Users\ivan_\source\repos\Web Scraping Ofertas\Web Scraping Ofertas\bin\Debug\netcoreapp3.1\Web Scraping Ofertas.Views.dll
+C:\Users\ivan_\source\repos\Web Scraping Ofertas\Web Scraping Ofertas\bin\Debug\netcoreapp3.1\Web Scraping Ofertas.Views.pdb
+C:\Users\ivan_\source\repos\Web Scraping Ofertas\Web Scraping Ofertas\obj\Debug\netcoreapp3.1\Web Scraping Ofertas.csproj.AssemblyReference.cache
+C:\Users\ivan_\source\repos\Web Scraping Ofertas\Web Scraping Ofertas\obj\Debug\netcoreapp3.1\Web Scraping Ofertas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivan_\source\repos\Web Scraping Ofertas\Web Scraping Ofertas\obj\Debug\netcoreapp3.1\Web Scraping Ofertas.AssemblyInfoInputs.cache
+C:\Users\ivan_\source\repos\Web Scraping Ofertas\Web Scraping Ofertas\obj\Debug\netcoreapp3.1\Web Scraping Ofertas.AssemblyInfo.cs
+C:\Users\ivan_\source\repos\Web Scraping Ofertas\Web Scraping Ofertas\obj\Debug\netcoreapp3.1\Web Scraping Ofertas.csproj.CoreCompileInputs.cache
+C:\Users\ivan_\source\repos\Web Scraping Ofertas\Web Scraping Ofertas\obj\Debug\netcoreapp3.1\Web Scraping Ofertas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ivan_\source\repos\Web Scraping Ofertas\Web Scraping Ofertas\obj\Debug\netcoreapp3.1\Web Scraping Ofertas.RazorAssemblyInfo.cache
+C:\Users\ivan_\source\repos\Web Scraping Ofertas\Web Scraping Ofertas\obj\Debug\netcoreapp3.1\Web Scraping Ofertas.RazorAssemblyInfo.cs
+C:\Users\ivan_\source\repos\Web Scraping Ofertas\Web Scraping Ofertas\obj\Debug\netcoreapp3.1\staticwebassets\Web Scraping Ofertas.StaticWebAssets.Manifest.cache
+C:\Users\ivan_\source\repos\Web Scraping Ofertas\Web Scraping Ofertas\obj\Debug\netcoreapp3.1\staticwebassets\Web Scraping Ofertas.StaticWebAssets.xml
+C:\Users\ivan_\source\repos\Web Scraping Ofertas\Web Scraping Ofertas\obj\Debug\netcoreapp3.1\scopedcss\bundle\Web Scraping Ofertas.styles.css
+C:\Users\ivan_\source\repos\Web Scraping Ofertas\Web Scraping Ofertas\obj\Debug\netcoreapp3.1\Web Scraping Ofertas.TagHelpers.input.cache
+C:\Users\ivan_\source\repos\Web Scraping Ofertas\Web Scraping Ofertas\obj\Debug\netcoreapp3.1\Web Scraping Ofertas.TagHelpers.output.cache
+C:\Users\ivan_\source\repos\Web Scraping Ofertas\Web Scraping Ofertas\obj\Debug\netcoreapp3.1\Web Scraping Ofertas.RazorCoreGenerate.cache
+C:\Users\ivan_\source\repos\Web Scraping Ofertas\Web Scraping Ofertas\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ivan_\source\repos\Web Scraping Ofertas\Web Scraping Ofertas\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ivan_\source\repos\Web Scraping Ofertas\Web Scraping Ofertas\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ivan_\source\repos\Web Scraping Ofertas\Web Scraping Ofertas\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ivan_\source\repos\Web Scraping Ofertas\Web Scraping Ofertas\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ivan_\source\repos\Web Scraping Ofertas\Web Scraping Ofertas\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ivan_\source\repos\Web Scraping Ofertas\Web Scraping Ofertas\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ivan_\source\repos\Web Scraping Ofertas\Web Scraping Ofertas\obj\Debug\netcoreapp3.1\Web Scraping Ofertas.RazorTargetAssemblyInfo.cache
+C:\Users\ivan_\source\repos\Web Scraping Ofertas\Web Scraping Ofertas\obj\Debug\netcoreapp3.1\Web Scraping Ofertas.RazorTargetAssemblyInfo.cs
+C:\Users\ivan_\source\repos\Web Scraping Ofertas\Web Scraping Ofertas\obj\Debug\netcoreapp3.1\Web Scraping Ofertas.Views.pdb
+C:\Users\ivan_\source\repos\Web Scraping Ofertas\Web Scraping Ofertas\obj\Debug\netcoreapp3.1\Web Scraping Ofertas.dll
+C:\Users\ivan_\source\repos\Web Scraping Ofertas\Web Scraping Ofertas\obj\Debug\netcoreapp3.1\Web Scraping Ofertas.pdb
+C:\Users\ivan_\source\repos\Web Scraping Ofertas\Web Scraping Ofertas\obj\Debug\netcoreapp3.1\Web Scraping Ofertas.genruntimeconfig.cache
+C:\Users\ivan_\source\repos\Web Scraping Ofertas\Web Scraping Ofertas\obj\Debug\netcoreapp3.1\Web Scraping Ofertas.csproj.CopyComplete
+C:\Users\ivan_\source\repos\Web Scraping Ofertas\Web Scraping Ofertas\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll

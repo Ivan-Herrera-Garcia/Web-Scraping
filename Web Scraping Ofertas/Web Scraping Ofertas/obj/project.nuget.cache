@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/L4q+g5/UCcgDmwwSEtF0Kgb3kZi4gviG8n36EXs8KSiQbOPwkacN8UbpxN4uKNV8RgyE4qhZOwmc4C4hR6LMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ivan_\\source\\repos\\Web Scraping Ofertas\\Web Scraping Ofertas\\Web Scraping Ofertas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ivan_\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}
