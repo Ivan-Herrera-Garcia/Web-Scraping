@@ -1,0 +1,39 @@
+C:\Users\ivan_\source\repos\Web Scraping Libros\Web Scraping Libros\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ivan_\source\repos\Web Scraping Libros\Web Scraping Libros\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ivan_\source\repos\Web Scraping Libros\Web Scraping Libros\bin\Debug\netcoreapp3.1\Web Scraping Libros.exe
+C:\Users\ivan_\source\repos\Web Scraping Libros\Web Scraping Libros\bin\Debug\netcoreapp3.1\Web Scraping Libros.deps.json
+C:\Users\ivan_\source\repos\Web Scraping Libros\Web Scraping Libros\bin\Debug\netcoreapp3.1\Web Scraping Libros.runtimeconfig.json
+C:\Users\ivan_\source\repos\Web Scraping Libros\Web Scraping Libros\bin\Debug\netcoreapp3.1\Web Scraping Libros.runtimeconfig.dev.json
+C:\Users\ivan_\source\repos\Web Scraping Libros\Web Scraping Libros\bin\Debug\netcoreapp3.1\Web Scraping Libros.dll
+C:\Users\ivan_\source\repos\Web Scraping Libros\Web Scraping Libros\bin\Debug\netcoreapp3.1\Web Scraping Libros.pdb
+C:\Users\ivan_\source\repos\Web Scraping Libros\Web Scraping Libros\bin\Debug\netcoreapp3.1\Web Scraping Libros.Views.dll
+C:\Users\ivan_\source\repos\Web Scraping Libros\Web Scraping Libros\bin\Debug\netcoreapp3.1\Web Scraping Libros.Views.pdb
+C:\Users\ivan_\source\repos\Web Scraping Libros\Web Scraping Libros\obj\Debug\netcoreapp3.1\Web Scraping Libros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivan_\source\repos\Web Scraping Libros\Web Scraping Libros\obj\Debug\netcoreapp3.1\Web Scraping Libros.AssemblyInfoInputs.cache
+C:\Users\ivan_\source\repos\Web Scraping Libros\Web Scraping Libros\obj\Debug\netcoreapp3.1\Web Scraping Libros.AssemblyInfo.cs
+C:\Users\ivan_\source\repos\Web Scraping Libros\Web Scraping Libros\obj\Debug\netcoreapp3.1\Web Scraping Libros.csproj.CoreCompileInputs.cache
+C:\Users\ivan_\source\repos\Web Scraping Libros\Web Scraping Libros\obj\Debug\netcoreapp3.1\Web Scraping Libros.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ivan_\source\repos\Web Scraping Libros\Web Scraping Libros\obj\Debug\netcoreapp3.1\Web Scraping Libros.RazorAssemblyInfo.cache
+C:\Users\ivan_\source\repos\Web Scraping Libros\Web Scraping Libros\obj\Debug\netcoreapp3.1\Web Scraping Libros.RazorAssemblyInfo.cs
+C:\Users\ivan_\source\repos\Web Scraping Libros\Web Scraping Libros\obj\Debug\netcoreapp3.1\staticwebassets\Web Scraping Libros.StaticWebAssets.Manifest.cache
+C:\Users\ivan_\source\repos\Web Scraping Libros\Web Scraping Libros\obj\Debug\netcoreapp3.1\staticwebassets\Web Scraping Libros.StaticWebAssets.xml
+C:\Users\ivan_\source\repos\Web Scraping Libros\Web Scraping Libros\obj\Debug\netcoreapp3.1\scopedcss\bundle\Web Scraping Libros.styles.css
+C:\Users\ivan_\source\repos\Web Scraping Libros\Web Scraping Libros\obj\Debug\netcoreapp3.1\Web Scraping Libros.TagHelpers.input.cache
+C:\Users\ivan_\source\repos\Web Scraping Libros\Web Scraping Libros\obj\Debug\netcoreapp3.1\Web Scraping Libros.TagHelpers.output.cache
+C:\Users\ivan_\source\repos\Web Scraping Libros\Web Scraping Libros\obj\Debug\netcoreapp3.1\Web Scraping Libros.RazorCoreGenerate.cache
+C:\Users\ivan_\source\repos\Web Scraping Libros\Web Scraping Libros\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ivan_\source\repos\Web Scraping Libros\Web Scraping Libros\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ivan_\source\repos\Web Scraping Libros\Web Scraping Libros\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ivan_\source\repos\Web Scraping Libros\Web Scraping Libros\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ivan_\source\repos\Web Scraping Libros\Web Scraping Libros\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ivan_\source\repos\Web Scraping Libros\Web Scraping Libros\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ivan_\source\repos\Web Scraping Libros\Web Scraping Libros\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ivan_\source\repos\Web Scraping Libros\Web Scraping Libros\obj\Debug\netcoreapp3.1\Web Scraping Libros.RazorTargetAssemblyInfo.cache
+C:\Users\ivan_\source\repos\Web Scraping Libros\Web Scraping Libros\obj\Debug\netcoreapp3.1\Web Scraping Libros.RazorTargetAssemblyInfo.cs
+C:\Users\ivan_\source\repos\Web Scraping Libros\Web Scraping Libros\obj\Debug\netcoreapp3.1\Web Scraping Libros.Views.pdb
+C:\Users\ivan_\source\repos\Web Scraping Libros\Web Scraping Libros\obj\Debug\netcoreapp3.1\Web Scraping Libros.dll
+C:\Users\ivan_\source\repos\Web Scraping Libros\Web Scraping Libros\obj\Debug\netcoreapp3.1\Web Scraping Libros.pdb
+C:\Users\ivan_\source\repos\Web Scraping Libros\Web Scraping Libros\obj\Debug\netcoreapp3.1\Web Scraping Libros.genruntimeconfig.cache
+C:\Users\ivan_\source\repos\Web Scraping Libros\Web Scraping Libros\obj\Debug\netcoreapp3.1\Web Scraping Libros.csproj.CopyComplete
+C:\Users\ivan_\source\repos\Web Scraping Libros\Web Scraping Libros\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\ivan_\source\repos\Web Scraping Libros\Web Scraping Libros\obj\Debug\netcoreapp3.1\Web Scraping Libros.csproj.AssemblyReference.cache
