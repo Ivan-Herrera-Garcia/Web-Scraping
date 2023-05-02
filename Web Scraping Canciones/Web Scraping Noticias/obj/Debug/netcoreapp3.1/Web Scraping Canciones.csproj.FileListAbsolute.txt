@@ -1,0 +1,38 @@
+C:\Users\ivan_\source\repos\Web Scraping Noticias\Web Scraping Noticias\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ivan_\source\repos\Web Scraping Noticias\Web Scraping Noticias\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ivan_\source\repos\Web Scraping Noticias\Web Scraping Noticias\bin\Debug\netcoreapp3.1\Web Scraping Canciones.exe
+C:\Users\ivan_\source\repos\Web Scraping Noticias\Web Scraping Noticias\bin\Debug\netcoreapp3.1\Web Scraping Canciones.deps.json
+C:\Users\ivan_\source\repos\Web Scraping Noticias\Web Scraping Noticias\bin\Debug\netcoreapp3.1\Web Scraping Canciones.runtimeconfig.json
+C:\Users\ivan_\source\repos\Web Scraping Noticias\Web Scraping Noticias\bin\Debug\netcoreapp3.1\Web Scraping Canciones.runtimeconfig.dev.json
+C:\Users\ivan_\source\repos\Web Scraping Noticias\Web Scraping Noticias\bin\Debug\netcoreapp3.1\Web Scraping Canciones.dll
+C:\Users\ivan_\source\repos\Web Scraping Noticias\Web Scraping Noticias\bin\Debug\netcoreapp3.1\Web Scraping Canciones.pdb
+C:\Users\ivan_\source\repos\Web Scraping Noticias\Web Scraping Noticias\bin\Debug\netcoreapp3.1\Web Scraping Canciones.Views.dll
+C:\Users\ivan_\source\repos\Web Scraping Noticias\Web Scraping Noticias\bin\Debug\netcoreapp3.1\Web Scraping Canciones.Views.pdb
+C:\Users\ivan_\source\repos\Web Scraping Noticias\Web Scraping Noticias\obj\Debug\netcoreapp3.1\Web Scraping Canciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivan_\source\repos\Web Scraping Noticias\Web Scraping Noticias\obj\Debug\netcoreapp3.1\Web Scraping Canciones.AssemblyInfoInputs.cache
+C:\Users\ivan_\source\repos\Web Scraping Noticias\Web Scraping Noticias\obj\Debug\netcoreapp3.1\Web Scraping Canciones.AssemblyInfo.cs
+C:\Users\ivan_\source\repos\Web Scraping Noticias\Web Scraping Noticias\obj\Debug\netcoreapp3.1\Web Scraping Canciones.csproj.CoreCompileInputs.cache
+C:\Users\ivan_\source\repos\Web Scraping Noticias\Web Scraping Noticias\obj\Debug\netcoreapp3.1\Web Scraping Canciones.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ivan_\source\repos\Web Scraping Noticias\Web Scraping Noticias\obj\Debug\netcoreapp3.1\Web Scraping Canciones.RazorAssemblyInfo.cache
+C:\Users\ivan_\source\repos\Web Scraping Noticias\Web Scraping Noticias\obj\Debug\netcoreapp3.1\Web Scraping Canciones.RazorAssemblyInfo.cs
+C:\Users\ivan_\source\repos\Web Scraping Noticias\Web Scraping Noticias\obj\Debug\netcoreapp3.1\staticwebassets\Web Scraping Canciones.StaticWebAssets.Manifest.cache
+C:\Users\ivan_\source\repos\Web Scraping Noticias\Web Scraping Noticias\obj\Debug\netcoreapp3.1\staticwebassets\Web Scraping Canciones.StaticWebAssets.xml
+C:\Users\ivan_\source\repos\Web Scraping Noticias\Web Scraping Noticias\obj\Debug\netcoreapp3.1\scopedcss\bundle\Web Scraping Canciones.styles.css
+C:\Users\ivan_\source\repos\Web Scraping Noticias\Web Scraping Noticias\obj\Debug\netcoreapp3.1\Web Scraping Canciones.TagHelpers.input.cache
+C:\Users\ivan_\source\repos\Web Scraping Noticias\Web Scraping Noticias\obj\Debug\netcoreapp3.1\Web Scraping Canciones.TagHelpers.output.cache
+C:\Users\ivan_\source\repos\Web Scraping Noticias\Web Scraping Noticias\obj\Debug\netcoreapp3.1\Web Scraping Canciones.RazorCoreGenerate.cache
+C:\Users\ivan_\source\repos\Web Scraping Noticias\Web Scraping Noticias\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ivan_\source\repos\Web Scraping Noticias\Web Scraping Noticias\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ivan_\source\repos\Web Scraping Noticias\Web Scraping Noticias\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ivan_\source\repos\Web Scraping Noticias\Web Scraping Noticias\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ivan_\source\repos\Web Scraping Noticias\Web Scraping Noticias\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ivan_\source\repos\Web Scraping Noticias\Web Scraping Noticias\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ivan_\source\repos\Web Scraping Noticias\Web Scraping Noticias\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ivan_\source\repos\Web Scraping Noticias\Web Scraping Noticias\obj\Debug\netcoreapp3.1\Web Scraping Canciones.RazorTargetAssemblyInfo.cache
+C:\Users\ivan_\source\repos\Web Scraping Noticias\Web Scraping Noticias\obj\Debug\netcoreapp3.1\Web Scraping Canciones.RazorTargetAssemblyInfo.cs
+C:\Users\ivan_\source\repos\Web Scraping Noticias\Web Scraping Noticias\obj\Debug\netcoreapp3.1\Web Scraping Canciones.Views.pdb
+C:\Users\ivan_\source\repos\Web Scraping Noticias\Web Scraping Noticias\obj\Debug\netcoreapp3.1\Web Scraping Canciones.dll
+C:\Users\ivan_\source\repos\Web Scraping Noticias\Web Scraping Noticias\obj\Debug\netcoreapp3.1\Web Scraping Canciones.pdb
+C:\Users\ivan_\source\repos\Web Scraping Noticias\Web Scraping Noticias\obj\Debug\netcoreapp3.1\Web Scraping Canciones.genruntimeconfig.cache
+C:\Users\ivan_\source\repos\Web Scraping Noticias\Web Scraping Noticias\obj\Debug\netcoreapp3.1\Web Scraping Canciones.csproj.CopyComplete
+C:\Users\ivan_\source\repos\Web Scraping Noticias\Web Scraping Noticias\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll

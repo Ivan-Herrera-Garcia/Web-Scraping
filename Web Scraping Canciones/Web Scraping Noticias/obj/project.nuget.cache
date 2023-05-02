@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hQd8UEvzWHuUIplrmbVo6Br0wkx5EkzQw+44hAKdGzl9jLKj60BpuHiPouT1PhE8RjKJN7ktJ2qTUVR9UfF7nQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ivan_\\source\\repos\\Web Scraping Noticias\\Web Scraping Noticias\\Web Scraping Canciones.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ivan_\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}
