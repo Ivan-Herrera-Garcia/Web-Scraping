@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web Scraping Marvel Characters", "Web Scraping Marvel Characters\Web Scraping Marvel Characters.csproj", "{B1B04E8A-250E-4583-948C-F66C87F13772}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1B04E8A-250E-4583-948C-F66C87F13772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1B04E8A-250E-4583-948C-F66C87F13772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1B04E8A-250E-4583-948C-F66C87F13772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1B04E8A-250E-4583-948C-F66C87F13772}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A33E55B-7EBA-4CD9-A5AA-C0126F4BB8C8}
+	EndGlobalSection
+EndGlobal
