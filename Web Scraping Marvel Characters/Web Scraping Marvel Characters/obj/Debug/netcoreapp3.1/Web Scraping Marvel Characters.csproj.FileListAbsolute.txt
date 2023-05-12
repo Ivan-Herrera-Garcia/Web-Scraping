@@ -1,0 +1,40 @@
+C:\Users\ivan_\source\repos\Web Scraping Marvel Characters\Web Scraping Marvel Characters\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ivan_\source\repos\Web Scraping Marvel Characters\Web Scraping Marvel Characters\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ivan_\source\repos\Web Scraping Marvel Characters\Web Scraping Marvel Characters\bin\Debug\netcoreapp3.1\Web Scraping Marvel Characters.exe
+C:\Users\ivan_\source\repos\Web Scraping Marvel Characters\Web Scraping Marvel Characters\bin\Debug\netcoreapp3.1\Web Scraping Marvel Characters.deps.json
+C:\Users\ivan_\source\repos\Web Scraping Marvel Characters\Web Scraping Marvel Characters\bin\Debug\netcoreapp3.1\Web Scraping Marvel Characters.runtimeconfig.json
+C:\Users\ivan_\source\repos\Web Scraping Marvel Characters\Web Scraping Marvel Characters\bin\Debug\netcoreapp3.1\Web Scraping Marvel Characters.runtimeconfig.dev.json
+C:\Users\ivan_\source\repos\Web Scraping Marvel Characters\Web Scraping Marvel Characters\bin\Debug\netcoreapp3.1\Web Scraping Marvel Characters.dll
+C:\Users\ivan_\source\repos\Web Scraping Marvel Characters\Web Scraping Marvel Characters\bin\Debug\netcoreapp3.1\Web Scraping Marvel Characters.pdb
+C:\Users\ivan_\source\repos\Web Scraping Marvel Characters\Web Scraping Marvel Characters\bin\Debug\netcoreapp3.1\Web Scraping Marvel Characters.Views.dll
+C:\Users\ivan_\source\repos\Web Scraping Marvel Characters\Web Scraping Marvel Characters\bin\Debug\netcoreapp3.1\Web Scraping Marvel Characters.Views.pdb
+C:\Users\ivan_\source\repos\Web Scraping Marvel Characters\Web Scraping Marvel Characters\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ivan_\source\repos\Web Scraping Marvel Characters\Web Scraping Marvel Characters\obj\Debug\netcoreapp3.1\Web Scraping Marvel Characters.csproj.AssemblyReference.cache
+C:\Users\ivan_\source\repos\Web Scraping Marvel Characters\Web Scraping Marvel Characters\obj\Debug\netcoreapp3.1\Web Scraping Marvel Characters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivan_\source\repos\Web Scraping Marvel Characters\Web Scraping Marvel Characters\obj\Debug\netcoreapp3.1\Web Scraping Marvel Characters.AssemblyInfoInputs.cache
+C:\Users\ivan_\source\repos\Web Scraping Marvel Characters\Web Scraping Marvel Characters\obj\Debug\netcoreapp3.1\Web Scraping Marvel Characters.AssemblyInfo.cs
+C:\Users\ivan_\source\repos\Web Scraping Marvel Characters\Web Scraping Marvel Characters\obj\Debug\netcoreapp3.1\Web Scraping Marvel Characters.csproj.CoreCompileInputs.cache
+C:\Users\ivan_\source\repos\Web Scraping Marvel Characters\Web Scraping Marvel Characters\obj\Debug\netcoreapp3.1\Web Scraping Marvel Characters.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ivan_\source\repos\Web Scraping Marvel Characters\Web Scraping Marvel Characters\obj\Debug\netcoreapp3.1\Web Scraping Marvel Characters.RazorAssemblyInfo.cache
+C:\Users\ivan_\source\repos\Web Scraping Marvel Characters\Web Scraping Marvel Characters\obj\Debug\netcoreapp3.1\Web Scraping Marvel Characters.RazorAssemblyInfo.cs
+C:\Users\ivan_\source\repos\Web Scraping Marvel Characters\Web Scraping Marvel Characters\obj\Debug\netcoreapp3.1\staticwebassets\Web Scraping Marvel Characters.StaticWebAssets.Manifest.cache
+C:\Users\ivan_\source\repos\Web Scraping Marvel Characters\Web Scraping Marvel Characters\obj\Debug\netcoreapp3.1\staticwebassets\Web Scraping Marvel Characters.StaticWebAssets.xml
+C:\Users\ivan_\source\repos\Web Scraping Marvel Characters\Web Scraping Marvel Characters\obj\Debug\netcoreapp3.1\scopedcss\bundle\Web Scraping Marvel Characters.styles.css
+C:\Users\ivan_\source\repos\Web Scraping Marvel Characters\Web Scraping Marvel Characters\obj\Debug\netcoreapp3.1\Web Scraping Marvel Characters.TagHelpers.input.cache
+C:\Users\ivan_\source\repos\Web Scraping Marvel Characters\Web Scraping Marvel Characters\obj\Debug\netcoreapp3.1\Web Scraping Marvel Characters.TagHelpers.output.cache
+C:\Users\ivan_\source\repos\Web Scraping Marvel Characters\Web Scraping Marvel Characters\obj\Debug\netcoreapp3.1\Web Scraping Marvel Characters.RazorCoreGenerate.cache
+C:\Users\ivan_\source\repos\Web Scraping Marvel Characters\Web Scraping Marvel Characters\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ivan_\source\repos\Web Scraping Marvel Characters\Web Scraping Marvel Characters\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ivan_\source\repos\Web Scraping Marvel Characters\Web Scraping Marvel Characters\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ivan_\source\repos\Web Scraping Marvel Characters\Web Scraping Marvel Characters\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ivan_\source\repos\Web Scraping Marvel Characters\Web Scraping Marvel Characters\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ivan_\source\repos\Web Scraping Marvel Characters\Web Scraping Marvel Characters\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ivan_\source\repos\Web Scraping Marvel Characters\Web Scraping Marvel Characters\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ivan_\source\repos\Web Scraping Marvel Characters\Web Scraping Marvel Characters\obj\Debug\netcoreapp3.1\Web Scraping Marvel Characters.RazorTargetAssemblyInfo.cache
+C:\Users\ivan_\source\repos\Web Scraping Marvel Characters\Web Scraping Marvel Characters\obj\Debug\netcoreapp3.1\Web Scraping Marvel Characters.RazorTargetAssemblyInfo.cs
+C:\Users\ivan_\source\repos\Web Scraping Marvel Characters\Web Scraping Marvel Characters\obj\Debug\netcoreapp3.1\Web Scraping Marvel Characters.Views.pdb
+C:\Users\ivan_\source\repos\Web Scraping Marvel Characters\Web Scraping Marvel Characters\obj\Debug\netcoreapp3.1\Web Scraping Marvel Characters.csproj.CopyComplete
+C:\Users\ivan_\source\repos\Web Scraping Marvel Characters\Web Scraping Marvel Characters\obj\Debug\netcoreapp3.1\Web Scraping Marvel Characters.dll
+C:\Users\ivan_\source\repos\Web Scraping Marvel Characters\Web Scraping Marvel Characters\obj\Debug\netcoreapp3.1\Web Scraping Marvel Characters.pdb
+C:\Users\ivan_\source\repos\Web Scraping Marvel Characters\Web Scraping Marvel Characters\obj\Debug\netcoreapp3.1\Web Scraping Marvel Characters.genruntimeconfig.cache
+C:\Users\ivan_\source\repos\Web Scraping Marvel Characters\Web Scraping Marvel Characters\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
