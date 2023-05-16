@@ -1,0 +1,41 @@
+C:\Users\ivan_\source\repos\Web Scraping Pokemon\Web Scraping Pokemon\obj\Debug\netcoreapp3.1\Web Scraping Pokemon.csproj.AssemblyReference.cache
+C:\Users\ivan_\source\repos\Web Scraping Pokemon\Web Scraping Pokemon\obj\Debug\netcoreapp3.1\Web Scraping Pokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivan_\source\repos\Web Scraping Pokemon\Web Scraping Pokemon\obj\Debug\netcoreapp3.1\Web Scraping Pokemon.AssemblyInfoInputs.cache
+C:\Users\ivan_\source\repos\Web Scraping Pokemon\Web Scraping Pokemon\obj\Debug\netcoreapp3.1\Web Scraping Pokemon.AssemblyInfo.cs
+C:\Users\ivan_\source\repos\Web Scraping Pokemon\Web Scraping Pokemon\obj\Debug\netcoreapp3.1\Web Scraping Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\ivan_\source\repos\Web Scraping Pokemon\Web Scraping Pokemon\obj\Debug\netcoreapp3.1\Web Scraping Pokemon.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ivan_\source\repos\Web Scraping Pokemon\Web Scraping Pokemon\obj\Debug\netcoreapp3.1\Web Scraping Pokemon.RazorAssemblyInfo.cache
+C:\Users\ivan_\source\repos\Web Scraping Pokemon\Web Scraping Pokemon\obj\Debug\netcoreapp3.1\Web Scraping Pokemon.RazorAssemblyInfo.cs
+C:\Users\ivan_\source\repos\Web Scraping Pokemon\Web Scraping Pokemon\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ivan_\source\repos\Web Scraping Pokemon\Web Scraping Pokemon\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ivan_\source\repos\Web Scraping Pokemon\Web Scraping Pokemon\bin\Debug\netcoreapp3.1\Web Scraping Pokemon.exe
+C:\Users\ivan_\source\repos\Web Scraping Pokemon\Web Scraping Pokemon\bin\Debug\netcoreapp3.1\Web Scraping Pokemon.deps.json
+C:\Users\ivan_\source\repos\Web Scraping Pokemon\Web Scraping Pokemon\bin\Debug\netcoreapp3.1\Web Scraping Pokemon.runtimeconfig.json
+C:\Users\ivan_\source\repos\Web Scraping Pokemon\Web Scraping Pokemon\bin\Debug\netcoreapp3.1\Web Scraping Pokemon.runtimeconfig.dev.json
+C:\Users\ivan_\source\repos\Web Scraping Pokemon\Web Scraping Pokemon\bin\Debug\netcoreapp3.1\Web Scraping Pokemon.dll
+C:\Users\ivan_\source\repos\Web Scraping Pokemon\Web Scraping Pokemon\bin\Debug\netcoreapp3.1\Web Scraping Pokemon.pdb
+C:\Users\ivan_\source\repos\Web Scraping Pokemon\Web Scraping Pokemon\bin\Debug\netcoreapp3.1\Web Scraping Pokemon.Views.dll
+C:\Users\ivan_\source\repos\Web Scraping Pokemon\Web Scraping Pokemon\bin\Debug\netcoreapp3.1\Web Scraping Pokemon.Views.pdb
+C:\Users\ivan_\source\repos\Web Scraping Pokemon\Web Scraping Pokemon\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ivan_\source\repos\Web Scraping Pokemon\Web Scraping Pokemon\obj\Debug\netcoreapp3.1\staticwebassets\Web Scraping Pokemon.StaticWebAssets.Manifest.cache
+C:\Users\ivan_\source\repos\Web Scraping Pokemon\Web Scraping Pokemon\obj\Debug\netcoreapp3.1\staticwebassets\Web Scraping Pokemon.StaticWebAssets.xml
+C:\Users\ivan_\source\repos\Web Scraping Pokemon\Web Scraping Pokemon\obj\Debug\netcoreapp3.1\scopedcss\bundle\Web Scraping Pokemon.styles.css
+C:\Users\ivan_\source\repos\Web Scraping Pokemon\Web Scraping Pokemon\obj\Debug\netcoreapp3.1\Web Scraping Pokemon.TagHelpers.input.cache
+C:\Users\ivan_\source\repos\Web Scraping Pokemon\Web Scraping Pokemon\obj\Debug\netcoreapp3.1\Web Scraping Pokemon.TagHelpers.output.cache
+C:\Users\ivan_\source\repos\Web Scraping Pokemon\Web Scraping Pokemon\obj\Debug\netcoreapp3.1\Web Scraping Pokemon.RazorCoreGenerate.cache
+C:\Users\ivan_\source\repos\Web Scraping Pokemon\Web Scraping Pokemon\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ivan_\source\repos\Web Scraping Pokemon\Web Scraping Pokemon\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ivan_\source\repos\Web Scraping Pokemon\Web Scraping Pokemon\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ivan_\source\repos\Web Scraping Pokemon\Web Scraping Pokemon\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ivan_\source\repos\Web Scraping Pokemon\Web Scraping Pokemon\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ivan_\source\repos\Web Scraping Pokemon\Web Scraping Pokemon\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ivan_\source\repos\Web Scraping Pokemon\Web Scraping Pokemon\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ivan_\source\repos\Web Scraping Pokemon\Web Scraping Pokemon\obj\Debug\netcoreapp3.1\Web Scraping Pokemon.RazorTargetAssemblyInfo.cache
+C:\Users\ivan_\source\repos\Web Scraping Pokemon\Web Scraping Pokemon\obj\Debug\netcoreapp3.1\Web Scraping Pokemon.RazorTargetAssemblyInfo.cs
+C:\Users\ivan_\source\repos\Web Scraping Pokemon\Web Scraping Pokemon\obj\Debug\netcoreapp3.1\Web Scraping Pokemon.Views.pdb
+C:\Users\ivan_\source\repos\Web Scraping Pokemon\Web Scraping Pokemon\obj\Debug\netcoreapp3.1\Web Scraping Pokemon.csproj.CopyComplete
+C:\Users\ivan_\source\repos\Web Scraping Pokemon\Web Scraping Pokemon\obj\Debug\netcoreapp3.1\Web Scraping Pokemon.dll
+C:\Users\ivan_\source\repos\Web Scraping Pokemon\Web Scraping Pokemon\obj\Debug\netcoreapp3.1\Web Scraping Pokemon.pdb
+C:\Users\ivan_\source\repos\Web Scraping Pokemon\Web Scraping Pokemon\obj\Debug\netcoreapp3.1\Web Scraping Pokemon.genruntimeconfig.cache
+C:\Users\ivan_\source\repos\Web Scraping Pokemon\Web Scraping Pokemon\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\ivan_\source\repos\Web Scraping Pokemon\Web Scraping Pokemon\bin\Debug\netcoreapp3.1\MoreLinq.dll
