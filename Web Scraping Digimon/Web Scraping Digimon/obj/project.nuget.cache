@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qD4RxnYfEHQVp2cdz+AP+5SCS4zuffkDWDHojC6Kg/O+mTr9MiniuArmZ3f9YKPfP4EtAP+xMwuL3iwGW6E6UA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ivan\\source\\repos\\Web Scraping Digimon\\Web Scraping Digimon\\Web Scraping Digimon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivan\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}
