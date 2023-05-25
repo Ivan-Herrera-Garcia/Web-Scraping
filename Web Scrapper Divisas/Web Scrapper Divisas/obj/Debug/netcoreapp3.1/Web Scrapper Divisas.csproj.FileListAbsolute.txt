@@ -1,0 +1,39 @@
+C:\Users\Ivan\source\repos\Web Scrapper Divisas\Web Scrapper Divisas\obj\Debug\netcoreapp3.1\Web Scrapper Divisas.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\Web Scrapper Divisas\Web Scrapper Divisas\obj\Debug\netcoreapp3.1\Web Scrapper Divisas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\Web Scrapper Divisas\Web Scrapper Divisas\obj\Debug\netcoreapp3.1\Web Scrapper Divisas.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\Web Scrapper Divisas\Web Scrapper Divisas\obj\Debug\netcoreapp3.1\Web Scrapper Divisas.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\Web Scrapper Divisas\Web Scrapper Divisas\obj\Debug\netcoreapp3.1\Web Scrapper Divisas.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\Web Scrapper Divisas\Web Scrapper Divisas\obj\Debug\netcoreapp3.1\Web Scrapper Divisas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ivan\source\repos\Web Scrapper Divisas\Web Scrapper Divisas\obj\Debug\netcoreapp3.1\Web Scrapper Divisas.RazorAssemblyInfo.cache
+C:\Users\Ivan\source\repos\Web Scrapper Divisas\Web Scrapper Divisas\obj\Debug\netcoreapp3.1\Web Scrapper Divisas.RazorAssemblyInfo.cs
+C:\Users\Ivan\source\repos\Web Scrapper Divisas\Web Scrapper Divisas\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ivan\source\repos\Web Scrapper Divisas\Web Scrapper Divisas\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ivan\source\repos\Web Scrapper Divisas\Web Scrapper Divisas\bin\Debug\netcoreapp3.1\Web Scrapper Divisas.exe
+C:\Users\Ivan\source\repos\Web Scrapper Divisas\Web Scrapper Divisas\bin\Debug\netcoreapp3.1\Web Scrapper Divisas.deps.json
+C:\Users\Ivan\source\repos\Web Scrapper Divisas\Web Scrapper Divisas\bin\Debug\netcoreapp3.1\Web Scrapper Divisas.runtimeconfig.json
+C:\Users\Ivan\source\repos\Web Scrapper Divisas\Web Scrapper Divisas\bin\Debug\netcoreapp3.1\Web Scrapper Divisas.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\Web Scrapper Divisas\Web Scrapper Divisas\bin\Debug\netcoreapp3.1\Web Scrapper Divisas.dll
+C:\Users\Ivan\source\repos\Web Scrapper Divisas\Web Scrapper Divisas\bin\Debug\netcoreapp3.1\Web Scrapper Divisas.pdb
+C:\Users\Ivan\source\repos\Web Scrapper Divisas\Web Scrapper Divisas\bin\Debug\netcoreapp3.1\Web Scrapper Divisas.Views.dll
+C:\Users\Ivan\source\repos\Web Scrapper Divisas\Web Scrapper Divisas\bin\Debug\netcoreapp3.1\Web Scrapper Divisas.Views.pdb
+C:\Users\Ivan\source\repos\Web Scrapper Divisas\Web Scrapper Divisas\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ivan\source\repos\Web Scrapper Divisas\Web Scrapper Divisas\obj\Debug\netcoreapp3.1\staticwebassets\Web Scrapper Divisas.StaticWebAssets.Manifest.cache
+C:\Users\Ivan\source\repos\Web Scrapper Divisas\Web Scrapper Divisas\obj\Debug\netcoreapp3.1\staticwebassets\Web Scrapper Divisas.StaticWebAssets.xml
+C:\Users\Ivan\source\repos\Web Scrapper Divisas\Web Scrapper Divisas\obj\Debug\netcoreapp3.1\scopedcss\bundle\Web Scrapper Divisas.styles.css
+C:\Users\Ivan\source\repos\Web Scrapper Divisas\Web Scrapper Divisas\obj\Debug\netcoreapp3.1\Web Scrapper Divisas.TagHelpers.input.cache
+C:\Users\Ivan\source\repos\Web Scrapper Divisas\Web Scrapper Divisas\obj\Debug\netcoreapp3.1\Web Scrapper Divisas.TagHelpers.output.cache
+C:\Users\Ivan\source\repos\Web Scrapper Divisas\Web Scrapper Divisas\obj\Debug\netcoreapp3.1\Web Scrapper Divisas.RazorCoreGenerate.cache
+C:\Users\Ivan\source\repos\Web Scrapper Divisas\Web Scrapper Divisas\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Ivan\source\repos\Web Scrapper Divisas\Web Scrapper Divisas\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Ivan\source\repos\Web Scrapper Divisas\Web Scrapper Divisas\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Ivan\source\repos\Web Scrapper Divisas\Web Scrapper Divisas\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Ivan\source\repos\Web Scrapper Divisas\Web Scrapper Divisas\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Ivan\source\repos\Web Scrapper Divisas\Web Scrapper Divisas\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Ivan\source\repos\Web Scrapper Divisas\Web Scrapper Divisas\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Ivan\source\repos\Web Scrapper Divisas\Web Scrapper Divisas\obj\Debug\netcoreapp3.1\Web Scrapper Divisas.RazorTargetAssemblyInfo.cache
+C:\Users\Ivan\source\repos\Web Scrapper Divisas\Web Scrapper Divisas\obj\Debug\netcoreapp3.1\Web Scrapper Divisas.RazorTargetAssemblyInfo.cs
+C:\Users\Ivan\source\repos\Web Scrapper Divisas\Web Scrapper Divisas\obj\Debug\netcoreapp3.1\Web Scrapper Divisas.Views.pdb
+C:\Users\Ivan\source\repos\Web Scrapper Divisas\Web Scrapper Divisas\obj\Debug\netcoreapp3.1\Web Scrapper Divisas.csproj.CopyComplete
+C:\Users\Ivan\source\repos\Web Scrapper Divisas\Web Scrapper Divisas\obj\Debug\netcoreapp3.1\Web Scrapper Divisas.dll
+C:\Users\Ivan\source\repos\Web Scrapper Divisas\Web Scrapper Divisas\obj\Debug\netcoreapp3.1\Web Scrapper Divisas.pdb
+C:\Users\Ivan\source\repos\Web Scrapper Divisas\Web Scrapper Divisas\obj\Debug\netcoreapp3.1\Web Scrapper Divisas.genruntimeconfig.cache

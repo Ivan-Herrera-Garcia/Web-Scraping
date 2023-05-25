@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B4oBFIHQJvTozN7YtJgeQcPw3W8uGc8NRCqNkKXEvKtva+3WCEOZMIb6XZbTiiaRdhR1gZ+D+O9+N8BP1fNq7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ivan\\source\\repos\\Web Scrapper Divisas\\Web Scrapper Divisas\\Web Scrapper Divisas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
