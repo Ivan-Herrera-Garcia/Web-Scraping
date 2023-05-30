@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JuewDXWmHbEHGtuLmOAYtFHrZW3F4uJmQOLJ+JdZHjkyAppV/QlyI2Lo+MHjZpGAK2rv/EQf3YQRWqfKpYpXZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ivan\\source\\repos\\Web Scraping Videos\\Web Scraping Videos\\Web Scraping Videos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivan\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}
