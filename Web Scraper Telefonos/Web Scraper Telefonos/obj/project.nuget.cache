@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s/fRCBvm71oTETlGmAtsvIJ1pZHmppOoaxa2pLFlc8B+2ds+/np8tZKd+BWsjD1OPQioW0s4B1dFO4E3b2orVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ivan\\source\\repos\\Web Scraper Telefonos\\Web Scraper Telefonos\\Web Scraper Telefonos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivan\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}
