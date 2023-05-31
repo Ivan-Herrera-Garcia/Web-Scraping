@@ -1,0 +1,39 @@
+C:\Users\Ivan\source\repos\Web Scraper Cartas Coleccionables\Web Scraper Cartas Coleccionables\obj\Debug\netcoreapp3.1\Web Scraper Cartas Coleccionables.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\Web Scraper Cartas Coleccionables\Web Scraper Cartas Coleccionables\obj\Debug\netcoreapp3.1\Web Scraper Cartas Coleccionables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\Web Scraper Cartas Coleccionables\Web Scraper Cartas Coleccionables\obj\Debug\netcoreapp3.1\Web Scraper Cartas Coleccionables.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\Web Scraper Cartas Coleccionables\Web Scraper Cartas Coleccionables\obj\Debug\netcoreapp3.1\Web Scraper Cartas Coleccionables.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\Web Scraper Cartas Coleccionables\Web Scraper Cartas Coleccionables\obj\Debug\netcoreapp3.1\Web Scraper Cartas Coleccionables.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\Web Scraper Cartas Coleccionables\Web Scraper Cartas Coleccionables\obj\Debug\netcoreapp3.1\Web Scraper Cartas Coleccionables.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ivan\source\repos\Web Scraper Cartas Coleccionables\Web Scraper Cartas Coleccionables\obj\Debug\netcoreapp3.1\Web Scraper Cartas Coleccionables.RazorAssemblyInfo.cache
+C:\Users\Ivan\source\repos\Web Scraper Cartas Coleccionables\Web Scraper Cartas Coleccionables\obj\Debug\netcoreapp3.1\Web Scraper Cartas Coleccionables.RazorAssemblyInfo.cs
+C:\Users\Ivan\source\repos\Web Scraper Cartas Coleccionables\Web Scraper Cartas Coleccionables\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ivan\source\repos\Web Scraper Cartas Coleccionables\Web Scraper Cartas Coleccionables\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ivan\source\repos\Web Scraper Cartas Coleccionables\Web Scraper Cartas Coleccionables\bin\Debug\netcoreapp3.1\Web Scraper Cartas Coleccionables.exe
+C:\Users\Ivan\source\repos\Web Scraper Cartas Coleccionables\Web Scraper Cartas Coleccionables\bin\Debug\netcoreapp3.1\Web Scraper Cartas Coleccionables.deps.json
+C:\Users\Ivan\source\repos\Web Scraper Cartas Coleccionables\Web Scraper Cartas Coleccionables\bin\Debug\netcoreapp3.1\Web Scraper Cartas Coleccionables.runtimeconfig.json
+C:\Users\Ivan\source\repos\Web Scraper Cartas Coleccionables\Web Scraper Cartas Coleccionables\bin\Debug\netcoreapp3.1\Web Scraper Cartas Coleccionables.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\Web Scraper Cartas Coleccionables\Web Scraper Cartas Coleccionables\bin\Debug\netcoreapp3.1\Web Scraper Cartas Coleccionables.dll
+C:\Users\Ivan\source\repos\Web Scraper Cartas Coleccionables\Web Scraper Cartas Coleccionables\bin\Debug\netcoreapp3.1\Web Scraper Cartas Coleccionables.pdb
+C:\Users\Ivan\source\repos\Web Scraper Cartas Coleccionables\Web Scraper Cartas Coleccionables\bin\Debug\netcoreapp3.1\Web Scraper Cartas Coleccionables.Views.dll
+C:\Users\Ivan\source\repos\Web Scraper Cartas Coleccionables\Web Scraper Cartas Coleccionables\bin\Debug\netcoreapp3.1\Web Scraper Cartas Coleccionables.Views.pdb
+C:\Users\Ivan\source\repos\Web Scraper Cartas Coleccionables\Web Scraper Cartas Coleccionables\obj\Debug\netcoreapp3.1\staticwebassets\Web Scraper Cartas Coleccionables.StaticWebAssets.Manifest.cache
+C:\Users\Ivan\source\repos\Web Scraper Cartas Coleccionables\Web Scraper Cartas Coleccionables\obj\Debug\netcoreapp3.1\staticwebassets\Web Scraper Cartas Coleccionables.StaticWebAssets.xml
+C:\Users\Ivan\source\repos\Web Scraper Cartas Coleccionables\Web Scraper Cartas Coleccionables\obj\Debug\netcoreapp3.1\scopedcss\bundle\Web Scraper Cartas Coleccionables.styles.css
+C:\Users\Ivan\source\repos\Web Scraper Cartas Coleccionables\Web Scraper Cartas Coleccionables\obj\Debug\netcoreapp3.1\Web Scraper Cartas Coleccionables.TagHelpers.input.cache
+C:\Users\Ivan\source\repos\Web Scraper Cartas Coleccionables\Web Scraper Cartas Coleccionables\obj\Debug\netcoreapp3.1\Web Scraper Cartas Coleccionables.TagHelpers.output.cache
+C:\Users\Ivan\source\repos\Web Scraper Cartas Coleccionables\Web Scraper Cartas Coleccionables\obj\Debug\netcoreapp3.1\Web Scraper Cartas Coleccionables.RazorCoreGenerate.cache
+C:\Users\Ivan\source\repos\Web Scraper Cartas Coleccionables\Web Scraper Cartas Coleccionables\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Ivan\source\repos\Web Scraper Cartas Coleccionables\Web Scraper Cartas Coleccionables\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Ivan\source\repos\Web Scraper Cartas Coleccionables\Web Scraper Cartas Coleccionables\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Ivan\source\repos\Web Scraper Cartas Coleccionables\Web Scraper Cartas Coleccionables\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Ivan\source\repos\Web Scraper Cartas Coleccionables\Web Scraper Cartas Coleccionables\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Ivan\source\repos\Web Scraper Cartas Coleccionables\Web Scraper Cartas Coleccionables\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Ivan\source\repos\Web Scraper Cartas Coleccionables\Web Scraper Cartas Coleccionables\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Ivan\source\repos\Web Scraper Cartas Coleccionables\Web Scraper Cartas Coleccionables\obj\Debug\netcoreapp3.1\Web Scraper Cartas Coleccionables.RazorTargetAssemblyInfo.cache
+C:\Users\Ivan\source\repos\Web Scraper Cartas Coleccionables\Web Scraper Cartas Coleccionables\obj\Debug\netcoreapp3.1\Web Scraper Cartas Coleccionables.RazorTargetAssemblyInfo.cs
+C:\Users\Ivan\source\repos\Web Scraper Cartas Coleccionables\Web Scraper Cartas Coleccionables\obj\Debug\netcoreapp3.1\Web Scraper Cartas Coleccionables.Views.pdb
+C:\Users\Ivan\source\repos\Web Scraper Cartas Coleccionables\Web Scraper Cartas Coleccionables\obj\Debug\netcoreapp3.1\Web Scraper Cartas Coleccionables.dll
+C:\Users\Ivan\source\repos\Web Scraper Cartas Coleccionables\Web Scraper Cartas Coleccionables\obj\Debug\netcoreapp3.1\Web Scraper Cartas Coleccionables.pdb
+C:\Users\Ivan\source\repos\Web Scraper Cartas Coleccionables\Web Scraper Cartas Coleccionables\obj\Debug\netcoreapp3.1\Web Scraper Cartas Coleccionables.genruntimeconfig.cache
+C:\Users\Ivan\source\repos\Web Scraper Cartas Coleccionables\Web Scraper Cartas Coleccionables\obj\Debug\netcoreapp3.1\Web Scraper Cartas Coleccionables.csproj.CopyComplete
+C:\Users\Ivan\source\repos\Web Scraper Cartas Coleccionables\Web Scraper Cartas Coleccionables\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll

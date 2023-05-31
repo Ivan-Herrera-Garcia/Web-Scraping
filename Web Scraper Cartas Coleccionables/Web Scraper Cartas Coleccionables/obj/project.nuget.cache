@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BexvCfsnVd/Qmt3mR3kGV9Q7GWSBk46ZIdidH2gxddjPSKXyL8UOj4f5krB3w8tw6YhjapGaXUFIIvp57HtiFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ivan\\source\\repos\\Web Scraper Cartas Coleccionables\\Web Scraper Cartas Coleccionables\\Web Scraper Cartas Coleccionables.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivan\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}
