@@ -126,10 +126,9 @@ namespace Web_Scraper_Cartas_Coleccionables.Scraper
         }
         #endregion
 
-        #region Obtener informacion de un producto especifico
+         #region Obtener informacion de un producto especifico
         public static async Task<bool> GetInfo(string enlace)
         {
-            //List<string> carac = new List<string>();
             var client = new HttpClient();
             var request = new HttpRequestMessage(HttpMethod.Get, enlace);
             request.Headers.Add("Cookie", "ak_bmsc=22DC754A3407CDDB6842B3C7E4DF4452~000000000000000000000000000000~YAAQVdX3vZBuAG6IAQAAtQKAchNa05tPrzIclDmQLt2D7wElIbFXIuKxSe/3ifyWkspOAeEybiCDFH5QnfP4o07e0ZAmXATxArK1ZD7gq3L5JADEbzhxGgC9xPlrTlmmfFoFo8fgQ0JlQITFrsy8rr1XQmhFilPd+R/xLAZAScHs8/gvlJqIkzryL+gwRtE1JqE30h81o53s6K66f5fyLS6y6OXPhpS6avbyIvgxbQpB9Ov1h/hlCblXLGCy/zNHdkpZswwK/gt9A4g2TFfh2wmSxcT/2YGmxt/Kp6rmjSKaw/Qb3fj3+j+LT+2+CzYvw0H0YyW6gZFKAXszt8acltAGbh6b5GFPYIe7sRcc/1nSwzVYIw7KB3hy; dp1=bbl/MX6839d38b^; ebay=%5Esbf%3D%23000000%5E; nonsession=BAQAAAYhF58hiAAaAADMABWZYoAsyNzEzMADKACBoOdOLNzI4MDAxZjkxODgwYTc3ZDM2MTViMGE5ZmZmZTg5MmYAywABZHdzkzHQBAk8f31+DkVFMVEbLQ+Kt4e0Dg**; s=CgAD4ACBkeL4LNzI4MDAxZjkxODgwYTc3ZDM2MTViMGE5ZmZmZTg5MmYY8mb2");
@@ -143,16 +142,24 @@ namespace Web_Scraper_Cartas_Coleccionables.Scraper
 
                 var main = document.DocumentNode.Descendants("div").Where(div => div.GetClasses().Contains("ux-layout-section-module-evo")).FirstOrDefault();
 
-                foreach(var listcarac in main.Descendants("div").Where(div => div.GetClasses().Contains("ux-layout-section-evo__col")))
-                {
-                    // carac.Add(WebUtility.HtmlDecode(listcarac.InnerText.Trim()));
-                    var label = listcarac.Descendants("div").Where(div => div.GetClasses().Contains("ux-labels-values__labels")).FirstOrDefault();
-                    var value = listcarac.Descendants("div").Where(div => div.GetClasses().Contains("ux-labels-values__values")).FirstOrDefault();
 
-                    if (label != null)
+                if (main != null)
+                {
+                    if (main.Descendants("div").Where(div => div.GetClasses().Contains("ux-layout-section-evo__col")).Any())
                     {
-                        lsCarac.Add(WebUtility.HtmlDecode(label.InnerText.Trim() + ": " + value.InnerText.Trim()+"\n"));
+
+                        foreach (var listcarac in main.Descendants("div").Where(div => div.GetClasses().Contains("ux-layout-section-evo__col")))
+                        {
+                            var label = listcarac.Descendants("div").Where(div => div.GetClasses().Contains("ux-labels-values__labels")).FirstOrDefault();
+                            var value = listcarac.Descendants("div").Where(div => div.GetClasses().Contains("ux-labels-values__values")).FirstOrDefault();
+
+                            if (label != null)
+                            {
+                                lsCarac.Add(WebUtility.HtmlDecode(label.InnerText.Trim() + ": " + value.InnerText.Trim() + "\n"));
+                            }
+                        }
                     }
+                    else { }
                 }
             }
             return true;
